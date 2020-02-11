@@ -6,3 +6,7 @@
 *.fatbin
 
 a.out
+*.exe
+*.exp
+*.lib
+
